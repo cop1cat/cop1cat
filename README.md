@@ -7,16 +7,6 @@
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=notaskynet&layout=compact"/></a>
 </p>
 
-- 🌱 Studying at HSE MIEM (Computer Security)
-- 😄 Interested in mathematics and deep learning
-- 🔭 Will be happy to participate in interesting projects
-- 📫 How to reach me sprv-4@yandex.ru
-  
-## Technical Skills
-- Python
-- SQL
-- Numpy/Pandas etcю
-
-## My Projects
-
-📚 **Algebra workbook.** Project from university practice. Developed methods for automatic problem solving (Matrices, Multimembered)
+- 🌱 Studying at Computer Security Program
+- 🔭 Interested in Math and ML
+- 📫 How to reach me: sprv-4@yandex.ru
