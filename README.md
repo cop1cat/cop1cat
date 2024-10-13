@@ -9,4 +9,4 @@
 
 - 🌱 Studying at Computer Security Program
 - 🔭 Interested in Math and ML
-- 📫 How to reach me: sprv-4@yandex.ru
+- 📫 How to reach me: notaskynet@yandex.ru
