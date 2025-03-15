@@ -1,4 +1,4 @@
-hi, i am daniel (⌒∇⌒)/
+hi, i am daniel (￣▽￣)ノ
 
 - study in a cyber security program
 - work in ml and data science
