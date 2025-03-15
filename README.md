@@ -1,21 +1,27 @@
-> **Hi, I am Daniel (￣▽￣)ノ**  
->  
-> **[LinkedIn](https://www.linkedin.com/in/daniel-spiridonov-853bb8265/) | [Kaggle](https://www.kaggle.com/xean0000) | [CV](https://notaskynet.github.io/resume/)**  
->  
-> **About me:**  
-> - Study in a cyber security program  
-> - Work in ML and Data Science  
->  
-> **Technologies I use:**  
-> - `Languages:` Python, SQL  
-> - `Libraries:` PyTorch, Pandas, SciPy, NumPy, FastAPI, Requests  
-> - `Tech:` MLflow, Apache Airflow, Docker, Postman  
-> - `OS:` Linux, macOS  
->  
-> **Projects:**  
-> - **CryptoStand:** Implementation of OpenID Connect protocol using Russian cryptoproviders  
-> - **hh-analyzer:** Simple app for aggregating statistics and common requirements  
->  
-> **If you want to contact me:**  
-> - `Email:` sprv-4@yandex.ru  
-> - `Telegram:` [@daspiridonov](https://t.me/daspiridonov)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniel-spiridonov-853bb8265/"><code>linkedin</code></a> |
+  <a href="https://www.kaggle.com/xean0000"><code>kaggle</code></a> |
+  <a href="https://notaskynet.github.io/resume/"><code>resume</code></a>
+</p>
+
+<pre>
+hi, i am daniel (￣▽￣)ノ
+
+* about me
+- study in a cyber security program
+- work in ml and data science
+
+* technologies i use:
+ - lags: python, sql
+ - libs: pytorch, pandas, scipy, numpy, fastapi, requests
+ - tech: mlflow, apache airflow, docker, postman, 
+ - os: linux, macos
+
+* projects
+- cryptostand: implemenation of openid connect protocol using russian cryptoproviders
+- hh-analyzer: simple app for aggregating statistics and common requiremenrs/
+
+if you want to contact me, here are my contacts:
+- mail: sprv-4@yandex.ru
+- telegram: @daspiridonov
+</pre>
