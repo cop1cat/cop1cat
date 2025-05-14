@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-spiridonov-853bb8265/"><code>linkedin</code></a> |
   <a href="https://www.kaggle.com/xean0000"><code>kaggle</code></a> |
-  <a href="https://notaskynet.github.io/resume/"><code>cv</code></a>
+  <a href="https://notaskynet.github.io/cv/"><code>cv</code></a>
 </p>
 
 <pre>
