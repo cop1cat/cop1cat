@@ -17,10 +17,6 @@ hi, i am daniel (￣▽￣)ノ
  - tech: mlflow, apache airflow, docker, postman, 
  - os: linux, macos
 
-* projects
-- <a href="https://github.com/Open-Crypto-Stand">cryptostand</a>: implemenation of openid connect protocol using russian cryptoproviders
-- <a href="https://github.com/notaskynet/HeadHunterAnalyser">hh-analyzer</a>: app for aggregating statistics and summarize job requirements/responsibilities 
-
 if you want to contact me, here are my contacts:
 - mail: sprv-4@yandex.ru
 - telegram: @daspiridonov
