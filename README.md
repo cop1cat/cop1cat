@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://notaskynet.github.io/resume/ru/"><code>resume (ru)</code></a> |
-  <a href="https://notaskynet.github.io/resume/en/"><code>resume (en)</code></a>
+  <a href="https://cop1cat.github.io/resume/ru.pdf"><code>resume (ru)</code></a> |
+  <a href="https://cop1cat.github.io/resume/en.pdf"><code>resume (en)</code></a>
 </p>
 
 <pre>
