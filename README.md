@@ -11,7 +11,7 @@ about me
 * doing ml and data science stuff
 
 technologies i use
- * langs: c/c++, python, sql
+ * langs: c/c++, python, sql (postgres)
  * stack: pytorch, transformers, sklearn, pandas, numpy, fastapi
  * tools: mlflow, airflow, docker, postman
  * mlops: gitlab ci, pre-commit, mypy, ruff, pytest, prometheus
