@@ -1,5 +1,4 @@
 <p align="center">
-  <a href="https://www.kaggle.com/xean0000"><code>kaggle</code></a> |
   <a href="https://notaskynet.github.io/resume/ru/"><code>resume (ru)</code></a> |
   <a href="https://notaskynet.github.io/resume/en/"><code>resume (en)</code></a>
 </p>
