@@ -1,7 +1,5 @@
 ```
-hey, i'm daniel /ᐠ｡ꞈ｡ᐟ\
-
+hey /ᐠ｡ꞈ｡ᐟ\
 working on ml stuff
-
-cybersecurity student @ hse
+now cybersecurity student @ hse
 ```
