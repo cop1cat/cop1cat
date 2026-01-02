@@ -1,5 +1,10 @@
 ```
-hey /ᐠ｡ꞈ｡ᐟ\
-working on ml stuff
-now cybersecurity student @ hse
+>^..^<
+doing ml
+сybersecurity student @ hse
+
+contact me:
+- telegram: @daspiridonov
+- mail: sprv-4@yandex.ru
+
 ```
