@@ -8,6 +8,6 @@ contact me:
 - <a href="https://www.linkedin.com/in/daniel-spiridonov/">linkedin: daniel-spiridonov</a>
 
 resume:
-- <a href="https://cop1cat.github.io/resume/resume_en.pdf">English</a>
-- <a href="https://cop1cat.github.io/resume/resume_ru.pdf">Russian</a>
+- <a href="https://cop1cat.github.io/resume/resume_en.pdf">english</a>
+- <a href="https://cop1cat.github.io/resume/resume_ru.pdf">russian</a>
 </pre>
