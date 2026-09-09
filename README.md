@@ -1,5 +1,5 @@
 <pre>
-doing ml >^..^<
+doing ml
 сybersecurity student @ hse
   
 contact me:
